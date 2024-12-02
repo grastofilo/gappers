@@ -1,6 +1,5 @@
-numpy
 numpy==1.25.0
-pandas
+pandas==2.0.3
 matplotlib
 plotly
 ipywidgets 
